@@ -1,26 +1,14 @@
 version: 2
 
 # 指定构建过程中使用的 Python 版本
-python:
-  version: 3.10
+# python:
+#   version: 3.10
 
 # 指定构建命令
 build:
   os: ubuntu-22.04
   tools:
     python: "3.10"
-
-# 定义文档版本
-version:
-  # 定义默认版本
-  default: latest
-  # # 定义其他版本
-  # # 每个版本都需要指定版本号和分支/tag
-  # # 在构建过程中，Read the Docs 将自动检查每个版本的文档
-  # # 并在导航栏中显示版本选择器
-  # tags:
-  #   - v1.0: v1.0
-  #   - v2.0: v2.0
 
 # # 指定构建成功后的通知方式
 # notifications:

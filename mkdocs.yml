@@ -10,6 +10,8 @@ theme:
     titles_only: False # 只在侧边栏中包括文章标题，不包括所有子标题。默认值:False。
     sticky_navigation: True #侧边栏在滚动页面时随主页内容滚动
 
+    locale: zh_CN
+
 nav:
     - 主页: index.md
     - 系统简介: 1_系统说明/system.md

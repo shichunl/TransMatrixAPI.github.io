@@ -3,9 +3,12 @@ theme:
     highlightjs: true
     hljs_languages:
         - yaml
-    sticky_navigation: true
-    navigation_depth: 5
-    collapse_navigation: true
+    include_homepage_in_sidebar: True  # 在侧边栏菜单中列出主页。
+    prev_next_buttons_location: both # 设置 “Next” 和 “Previous” 按钮的位置：bottom, top, both , or none
+    navigation_depth: 4 # 侧边栏导航标题最大层级，默认4
+    collapse_navigation: True # 只在当前页面的侧边栏中包含页面标题。
+    titles_only: False # 只在侧边栏中包括文章标题，不包括所有子标题。默认值:False。
+    sticky_navigation: True #侧边栏在滚动页面时随主页内容滚动
 
 nav:
     - 主页: index.md
@@ -27,9 +30,9 @@ nav:
     - 可视化: 7_可视化模块/plot.md
     - 更新日志: 11_更新日志/relaerse_note.md
     
-site_name: TransMatrix说明文档
-repo_url: https://github.com/shichunl/TransMatrixAPI.github.io.git  # 仓库地址
-repo_name: TransMatrixAPI.github.io # 仓库名称
-edit_uri: docs/ # 编辑路径
-site_author: Transwarp # 作者
+# site_name: TransMatrix说明文档
+# repo_url: https://github.com/shichunl/TransMatrixAPI.github.io.git  # 仓库地址
+# repo_name: TransMatrixAPI.github.io # 仓库名称
+# edit_uri: docs/ # 编辑路径
+# site_author: Transwarp # 作者
 # copyright: # 版权声明

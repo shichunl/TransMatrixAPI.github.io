@@ -10,8 +10,9 @@ build:
   tools:
     python: "3.10"
 
-# # 指定构建成功后的通知方式
-# notifications:
-#   email:
-#     recipients:
-#       - your-email@example.com
+mkdocs:
+  configuration: mkdocs.yml
+
+# python:
+#    install:
+#    - requirements: docs/requirements.txt

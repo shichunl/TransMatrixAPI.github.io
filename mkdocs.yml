@@ -4,7 +4,7 @@ theme:
     hljs_languages:
         - yaml
     include_homepage_in_sidebar: True  # 在侧边栏菜单中列出主页。
-    prev_next_buttons_location: both # 设置 “Next” 和 “Previous” 按钮的位置：bottom, top, both , or none
+    prev_next_buttons_location: bottom # 设置 “Next” 和 “Previous” 按钮的位置：bottom, top, both , or none
     navigation_depth: 4 # 侧边栏导航标题最大层级，默认4
     collapse_navigation: True # 只在当前页面的侧边栏中包含页面标题。
     titles_only: False # 只在侧边栏中包括文章标题，不包括所有子标题。默认值:False。

@@ -29,7 +29,8 @@ nav:
     - 数据库: 3_接口说明/数据库/DatabaseAPI.md
     - 可视化: 7_可视化模块/plot.md
     - 更新日志: 11_更新日志/relaerse_note.md
-    
+
+
 site_name: TransMatrix说明文档
 repo_url: https://github.com/shichunl/TransMatrixAPI.github.io.git  # 仓库地址
 repo_name: TransMatrixAPI.github.io # 仓库名称

@@ -1,6 +1,6 @@
 ### 策略服务-回测场景支持
 
-[ETF基金T0](/8_测例代码/策略服务-回测场景支持/ETF基金T0)
+[ETF基金T0](../8_测例代码/策略服务-回测场景支持/ETF基金T0)
 
 [因子选股](8_测例代码\策略服务-回测场景支持\因子选股.md)
 
@@ -23,7 +23,7 @@
 [因子服务-评价模板](8_测例代码\因子服务-评价模板.md)
 
 ### transmatrix特色功能
-
+transmatrixapigithubio.readthedocs.io/zh_CN/latest/8_测例代码/策略服务-回测场景支持/股票日频/
 [批量任务-workflow](8_测例代码\transmatrix特色功能\批量任务-workflow.md)
 
 #### 数据获取-data_api

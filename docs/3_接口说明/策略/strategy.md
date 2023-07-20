@@ -1,6 +1,6 @@
 ## [Strategy](/8_测例代码/策略服务-回测场景支持/股票日频)
 
-
+[Strategy](/8_测例代码/策略服务-回测场景支持/股票日频)
 策略编写组件，用户通过继承该组件实现策略逻辑。
 
 Strategy 是 [Generator](3_接口说明/策略/generator.md) 的子类，可实现 [订阅数据](3_接口说明/策略/generator.md#subscribe_data)、[订阅因子](3_接口说明/策略/generator.md#subscribe)、[添加定时器](3_接口说明/策略/generator.md#add_scheduler)、[注册信息流、发布信息、构建自定义回调。](3_接口说明/策略/generator.md#generator-间的信息传递)

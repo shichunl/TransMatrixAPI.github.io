@@ -35,4 +35,4 @@ repo_url: https://github.com/shichunl/TransMatrixAPI.github.io.git  # 仓库地�
 repo_name: TransMatrixAPI.github.io # 仓库名称
 edit_uri: docs/ # 编辑路径
 site_author: Transwarp # 作者
-copyright: # 版权声明
+# copyright: # 版权声明
